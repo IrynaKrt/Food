@@ -1,6 +1,6 @@
 # Food
 
-https://irynakrt.github.io/Food
+https://irynakrt.github.io/Food/food
 
 # Iryna Sittsava
 ## Student & future full-stack developer
