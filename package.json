@@ -1,0 +1,36 @@
+{
+  "name": "dist.local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaKrt/project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 0.006%"
+  ],
+  "bugs": {
+    "url": "https://github.com/IrynaKrt/project/issues"
+  },
+  "homepage": "https://github.com/IrynaKrt/project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "babel-loader": "^8.2.5",
+    "core-js": "^3.25.3",
+    "json-server": "^0.4.2",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "es6-promise": "^4.2.8",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  }
+}
