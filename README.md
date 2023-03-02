@@ -1,5 +1,7 @@
 # Food
 
+https://irynakrt.github.io/Food
+
 # Iryna Sittsava
 ## Student & future full-stack developer
 
@@ -12,5 +14,5 @@
 #### I am ready to learn and learn new things, because I want to be useful!
 
 ## About this project:
-#### This is my first and simple study-project implemented on a pure Javascript! Еhis work was done using gulp and babel!
+#### This is my first and simple study-project implemented on a pure Javascript! This work was done using webpack and json-server as get requests!
 #### I thank in advance those who will express their objective opinion and tell me what can be improved ♡
